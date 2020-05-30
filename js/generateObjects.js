@@ -17,7 +17,7 @@ function Coche(marca, modelo, anyo){
 var nuevoCoche = new Coche('Seat', 'Leon', 2020);
 console.log(nuevoCoche);
 
-// document.write(nuevoCoche);
+ document.write(nuevoCoche);
 
 for(var i = 1; i<10; i++) {
     console.log(nuevoCoche);
